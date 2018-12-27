@@ -27,11 +27,4 @@ body {
   width: auto; 
   max-width: 150px; 
   max-height: 150px;
-  transition: all .5s ease-in-out;
-}
-
-.product:hover {
-  transform: scale(3);
-  z-index: 9999;
-  border: 1px solid grey;
 }
